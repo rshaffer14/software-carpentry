@@ -2,6 +2,6 @@ water
 chicken 
 broth 
 onion 
-carrot	
+carrot
 celery 
-
+sage
